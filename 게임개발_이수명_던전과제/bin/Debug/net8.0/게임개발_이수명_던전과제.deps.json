@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "게임개발_이수명_던전과제/1.0.0": {
+        "runtime": {
+          "게임개발_이수명_던전과제.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "게임개발_이수명_던전과제/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

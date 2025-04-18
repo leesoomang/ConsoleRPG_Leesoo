@@ -1,0 +1,14 @@
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\bin\Debug\net8.0\게임개발_이수명_던전과제.exe
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\bin\Debug\net8.0\게임개발_이수명_던전과제.deps.json
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\bin\Debug\net8.0\게임개발_이수명_던전과제.runtimeconfig.json
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\bin\Debug\net8.0\게임개발_이수명_던전과제.dll
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\bin\Debug\net8.0\게임개발_이수명_던전과제.pdb
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\obj\Debug\net8.0\게임개발_이수명_던전과제.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\obj\Debug\net8.0\게임개발_이수명_던전과제.AssemblyInfoInputs.cache
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\obj\Debug\net8.0\게임개발_이수명_던전과제.AssemblyInfo.cs
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\obj\Debug\net8.0\게임개발_이수명_던전과제.csproj.CoreCompileInputs.cache
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\obj\Debug\net8.0\게임개발_이수명_던전과제.dll
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\obj\Debug\net8.0\refint\게임개발_이수명_던전과제.dll
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\obj\Debug\net8.0\게임개발_이수명_던전과제.pdb
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\obj\Debug\net8.0\게임개발_이수명_던전과제.genruntimeconfig.cache
+D:\C#\게임개발_이수명_던전과제\게임개발_이수명_던전과제\obj\Debug\net8.0\ref\게임개발_이수명_던전과제.dll
